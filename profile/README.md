@@ -51,7 +51,7 @@ Vertoone Clothing is our garments brand offering high-quality apparel through a 
 
 **General Inquiries:**
 - Website: [www.vertoone.com](https://www.vertoone.com)
-- Email: info@vertoone.com
+- Email: admin@vertoone.com
 
 **CRM Support:**
 - Email: support@vertoone.com
